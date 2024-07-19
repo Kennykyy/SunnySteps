@@ -1,0 +1,18 @@
+.form1{
+    position: absolute;
+    width: 45%;
+    left: 26%;
+    top: 8%;
+}
+.form1 h1{
+    font-size: 45px;
+}
+body{
+    background-color: rgb(228, 228, 228);
+}
+.btn{
+    background-color: azure;
+    color: black;
+    border: none;
+    width: 30%;
+}
